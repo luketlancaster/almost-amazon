@@ -1,5 +1,5 @@
 const book = {
-  name: 'New Vegitarian Cooking for NOBODY'
+  name: 'New Vegitarian Cooking for Everyone'
 };
 
 const getBook = () => {
